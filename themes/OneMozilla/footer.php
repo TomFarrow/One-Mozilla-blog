@@ -21,6 +21,7 @@
         <li><a href="https://www.mozilla.org/en-US/about/legal.html" rel="external"><?php _e('Legal Notices', 'onemozilla'); ?></a></li>
         <li><a href="https://www.mozilla.org/en-US/legal/fraud-report/index.html" rel="external"><?php _e('Report Trademark Abuse', 'onemozilla'); ?></a></li>
         <li><a href="https://github.com/mozilla/One-Mozilla-blog/" rel="external"><?php _e('Theme Code ', 'onemozilla'); ?></a></li>
+        <li><a href="http://www.maxcdn.com/" rel="external"><?php _e('Powered by MaxCDN', 'onemozilla'); ?></a></li>
       </ul>
     </nav>
   </div>
